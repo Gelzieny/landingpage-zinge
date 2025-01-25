@@ -6,7 +6,7 @@ O layout do projeto está disponível no [Figma](https://www.figma.com/design/ck
 
 <p align="center">
   <img alt="" src=".github/image.png" width="400">  
-  <img alt="" src=".github/image2.png" width="400">
+  <img alt="" src=".github/image2.png" width="200">
   <img alt="" src=".github/image3.png" width="400">
   <img alt="" src=".github/image1.png" width="400">
   <img alt="" src=".github/image4.png" width="400">
