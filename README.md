@@ -1,5 +1,7 @@
 <strong><h1 align="center"><img alt="" src=".github/logo.svg" width="100"></h1></strong>
 
+Projeto desenvolvido durante as aulas práticas de responsividade, com o objetivo de criar uma landing page totalmente adaptável para diferentes dispositivos, destinada à apresentação de um aplicativo.
+
 ## 🎨 Layout
 
 O layout do projeto está disponível no [Figma](https://www.figma.com/design/ckg4WZEwM9bgr1SM5ApNox/LP-de-produto-(Community)-(Copy)?node-id=3-376&p=f&t=KKubJGmidOrfDLeE-0)
