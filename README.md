@@ -5,10 +5,10 @@
 O layout do projeto está disponível no [Figma](https://www.figma.com/design/ckg4WZEwM9bgr1SM5ApNox/LP-de-produto-(Community)-(Copy)?node-id=3-376&p=f&t=KKubJGmidOrfDLeE-0)
 
 <p align="center">
-  <img alt="" src=".github/image.png" width="400">
-  <img alt="" src=".github/image1.png" width="400">
+  <img alt="" src=".github/image.png" width="400">  
   <img alt="" src=".github/image2.png" width="400">
   <img alt="" src=".github/image3.png" width="400">
+  <img alt="" src=".github/image1.png" width="400">
   <img alt="" src=".github/image4.png" width="400">
 </p>
 
